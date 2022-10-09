@@ -2,7 +2,7 @@
 - 👀 I’m interested in interests
 - 🌱 I’m currently learning knowledge
 - 💞️ I’m looking to collaborate on the internet
-- 📫 How to reach me gerardo.sandovalp10@gmail.com
+- 📫 How to reach me metalknight2474@gmail.com
 
 <!---
 lasagnadragon/lasagnadragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
